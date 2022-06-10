@@ -1,5 +1,4 @@
-
-    Hola! 👋, I'm Shivam Singh
+Hola!👋, I'm Shivam Singh
      
 
 - ⛓ Aspiring to be a Blockchain Developer
