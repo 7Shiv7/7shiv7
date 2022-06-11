@@ -10,4 +10,4 @@ Hola!👋, I'm Shivam Singh
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Google was up for sale in 1999
  
- <img src="https://github-readme-stats.vercel.app/api?username=7shiv7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+ <img src="https://github-readme-stats.vercel.app/api?username=shivammsingh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
