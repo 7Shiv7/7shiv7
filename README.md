@@ -4,7 +4,7 @@ Hola!👋, I'm Shivam Singh
 - ⛓ Aspiring to be a Blockchain Developer
 - 🔭 I’m currently working on Decentralized Staking Web App.
 - 🌱 I’m currently learning Blockchain Development.
-- 👯 I’m looking to collaborate Blockchain projects.
+- 👯 I’m looking to collaborate on Blockchain projects.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivam-singh-11b247196/)
 - 😄 Pronouns: he/his
