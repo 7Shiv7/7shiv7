@@ -3,7 +3,7 @@
      
 
 - ⛓ Aspiring to be a Block⛓ Developer
-- 🔭 I’m currently working on Decentralized Staking Web App.
+- 🔭 I’m currently working on NFT Platform.
 - 🌱 I’m currently learning Blockchain Development.
 - 👯 I’m looking to collaborate on Blockchain projects.
 - 💬 Ask me about any tech related stuff.
