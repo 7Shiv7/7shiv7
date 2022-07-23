@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Blockchain Development.
 - 👯 I’m looking to collaborate on Blockchain projects.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivam-singh-11b247196/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivamm-singh/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Google was up for sale in 1999
 
