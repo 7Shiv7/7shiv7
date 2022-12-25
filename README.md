@@ -2,10 +2,7 @@
  Hola!👋, I'm Shivam Singh
      
 
-- ⛓ Aspiring to be a Block⛓ Developer
-- 🔭 I’m currently working on NFT Platform.
 - 🌱 I’m currently learning Blockchain Development.
-- 👯 I’m looking to collaborate on Blockchain projects.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivamm-singh/)
 - 😄 Pronouns: he/his
